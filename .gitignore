@@ -1,5 +1,6 @@
 workflow.yml
 transformations.yml
+replicas.yml
 sites.yml
 pegasus.properties
 submit/
