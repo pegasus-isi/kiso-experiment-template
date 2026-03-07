@@ -62,6 +62,7 @@ git push --tags
 - [EnOSlib](https://discovery.gitlabpages.inria.fr/enoslib/)
 - [Chameleon Cloud](https://www.chameleoncloud.org)
 - [FABRIC](https://portal.fabric-testbed.net)
+- [Vagrant](https://developer.hashicorp.com/vagrant)
 
 # Acknowledgements
 
