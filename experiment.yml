@@ -88,7 +88,7 @@ sites:
       networks:
         - labels:
             - r1
-          cidr: "172.16.42.0/16"
+          cidr: 172.16.42.0/16
 
   # Example, provisions a container on Chameleon Edge with a Raspberry Pi 4.
   # - kind: chameleon-edge
